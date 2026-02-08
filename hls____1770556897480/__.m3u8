@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:60
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:60.010667,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls____1770556897480/___000.ts
+#EXTINF:59.989333,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls____1770556897480/___001.ts
+#EXTINF:60.010667,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls____1770556897480/___002.ts
+#EXTINF:1.775400,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls____1770556897480/___003.ts
+#EXT-X-ENDLIST
