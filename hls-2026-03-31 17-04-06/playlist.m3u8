@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:33
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:33.333333,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls-2026-03-31 17-04-06/playlist0.ts
+#EXTINF:29.166667,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls-2026-03-31 17-04-06/playlist1.ts
+#EXTINF:30.016667,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls-2026-03-31 17-04-06/playlist2.ts
+#EXTINF:24.200000,
+https://raw.githubusercontent.com/nt104901/storage-2/main/hls-2026-03-31 17-04-06/playlist3.ts
+#EXT-X-ENDLIST
